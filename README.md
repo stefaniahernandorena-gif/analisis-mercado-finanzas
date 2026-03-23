@@ -47,6 +47,5 @@ El repositorio se organiza de la siguiente manera para facilitar su revisión:
   **Proyecto desarrollado para la Primera Entrega de la cursada de Data Science.**
 *Hernandorena, Stefanía Micaela*
 
-* **API de CoinGecko:** Extracción de precios históricos y volúmenes de **Bitcoin**.
 * **Yahoo Finance (`yfinance`):** Obtención de datos del mercado bursátil para **Apple Inc**.
 * **Procesamiento:** Se realizó un *Inner Join* para unificar los calendarios de ambos mercados, eliminando días no hábiles y normalizando las zonas horarias.
